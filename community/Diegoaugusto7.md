@@ -10,5 +10,5 @@
 👤 Sobre Mim: Sou proativo e curioso, gosto de criar soluções inovadoras e explorar como a tecnologia pode facilitar nosso dia a dia.
 
 🎯 Objetivo: Busco me conectar com profissionais da área para compartilhar experiências, trocar conhecimentos e contribuir para projetos desafiadores.
-
+Caso queira conectar comigo, meu linkedin abaixo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/diego-augusto-brasileiro-dos-santos-/))
